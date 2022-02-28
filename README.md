@@ -28,7 +28,10 @@ This is a course management app for the student who are usually between 18 to 30
 [1. Version 1]\
 [2. Version 2]
 
+## Prototype Video
+[Prototype Video]
 
 
 [1. Version 1]: <https://www.figma.com/file/CjeNTcRqnLtL6HJPCEe5b2/Assignment-1>
 [2. Version 2]: <https://www.figma.com/file/N1JpU0dDODJN9vfZ1rXFDK/Assignment-HCI>
+[Prototype Video]: <https://sheridanc-my.sharepoint.com/:v:/g/personal/yuanfu_shernet_sheridancollege_ca/Ea_9cChsm8ZPs84qALxL7DwBxJogZSPOV1TppSBrP73bnA?e=ssoVj5>
